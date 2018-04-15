@@ -4,7 +4,7 @@
   "description": "A minimal example of setting up Webpack 3 and react-hot-loader together",
   "module": "src/index.js",
   "repository": "https://github.com/kohlmannj/webpack-3-react-hot-loader",
-  "author": "Joseph Kohlmann <joseph.kohlmann@nytimes.com>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --hot",
